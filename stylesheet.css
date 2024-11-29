@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-image: url('Zayne2.jpeg');
 	
 }
 .peach-after {
@@ -1113,6 +1113,9 @@ audio {
 }
 #b7,#b77{
 	background-image: url('b7.png');
+}
+#b8,#b88 {
+	background-image: url('b3.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
